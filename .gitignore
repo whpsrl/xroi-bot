@@ -1,0 +1,10 @@
+# Bytecode Python
+__pycache__/
+*.pyc
+
+# Env e credenziali
+.env
+
+# Sistema
+.DS_Store
+*.log
